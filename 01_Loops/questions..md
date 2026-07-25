@@ -61,8 +61,3 @@ Difficulty: Medium
 Solution: see [01_Loops/index.js](01_Loops/index.js) and [01_Loops/practice.js](01_Loops/practice.js)
 
 ---
-
-Notes:
-
-- Add short tests/examples in `practice.js` to demonstrate expected behavior.
-- If you want, I can add explicit example input/output blocks and a small test harness next.
