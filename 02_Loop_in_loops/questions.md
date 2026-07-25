@@ -77,7 +77,7 @@ Output: For n = 4, the output should be:
 1 0 1 0
 ```
 
-## Pattern 8: Pattern 8: Right-Angled Triangle of Alternating 1s and 0s (Global Toggle). Write a program to print a triangle of alternating 1s and 0s, but the toggle continues globally across rows.
+## Pattern 8: Right-Angled Triangle of Alternating 1s and 0s (Global Toggle). Write a program to print a triangle of alternating 1s and 0s, but the toggle continues globally across rows.
 
 Output: For n = 4, the output should be:
 
