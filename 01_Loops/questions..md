@@ -10,7 +10,7 @@ Edge cases: empty array → return `-1`; multiple equal elements → return firs
 
 Difficulty: Easy
 
-Solution: see [01_Loops/index.js](01_Loops/index.js) and [01_Loops/practice.js](01_Loops/practice.js)
+Solution: see [index.js](index.js) and [practice.js](practice.js)
 
 ## 2. Count negative numbers
 
@@ -22,7 +22,7 @@ Edge cases: no negatives → return `0`; non-integer values — clarify expected
 
 Difficulty: Easy
 
-Solution: see [01_Loops/index.js](01_Loops/index.js) and [01_Loops/practice.js](01_Loops/practice.js)
+Solution: see [index.js](index.js) and [practice.js](practice.js)
 
 ## 3. Largest number in array
 
@@ -34,7 +34,7 @@ Edge cases: empty array — specify behavior (e.g., return `null` or `-Infinity`
 
 Difficulty: Easy
 
-Solution: see [01_Loops/index.js](01_Loops/index.js) and [01_Loops/practice.js](01_Loops/practice.js)
+Solution: see [index.js](index.js) and [practice.js](practice.js)
 
 ## 4. Smallest number in array
 
@@ -46,7 +46,7 @@ Edge cases: empty array — specify behavior; mixed types — clarify.
 
 Difficulty: Easy
 
-Solution: see [01_Loops/index.js](01_Loops/index.js) and [01_Loops/practice.js](01_Loops/practice.js)
+Solution: see [index.js](index.js) and [practice.js](practice.js)
 
 ## 5. Second largest number
 
@@ -58,6 +58,6 @@ Edge cases: arrays with fewer than 2 unique numbers — specify behavior (e.g., 
 
 Difficulty: Medium
 
-Solution: see [01_Loops/index.js](01_Loops/index.js) and [01_Loops/practice.js](01_Loops/practice.js)
+Solution: see [index.js](index.js) and [practice.js](practice.js)
 
 ---
